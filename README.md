@@ -5,6 +5,8 @@ A serious EOP Exploit for Windows OS has been released by Google Project Zero.
 
 I have tested it on WIN 10 and it is working i.e it successfully crashes the system.
 
+I have compiled the below POC code ,Check the attached file
+
     #pragma comment(lib, "ntdll")
 
     #include <cstdio>
