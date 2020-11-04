@@ -1,11 +1,11 @@
-# CVE2020-17087
+# CVE-2020-17087
 Elevation Of Privileges Proof of Concept for Windows (win7-win10)
 
-A serious EOP Exploit for Windows OS has been released by Google Project Zero.
+A serious EOP exploit for Windows OS has been released by Google Project Zero.
 
-I have tested it on WIN 10 and it is working i.e it successfully crashes the system.
+I have tested it on Windows 10 and it is working i.e it successfully crashes the system.
 
-I have compiled the below POC code ,Check the attached file
+I have compiled the below POC code, check the attached file.
 
     #pragma comment(lib, "ntdll")
 
@@ -80,5 +80,5 @@ I have compiled the below POC code ,Check the attached file
 https://bugs.chromium.org/p/project-zero/issues/detail?id=2104
 
 
----------------------Waiting for the development of the exploit ------------------------
+--------------------- Waiting for the development of the exploit ------------------------
 
